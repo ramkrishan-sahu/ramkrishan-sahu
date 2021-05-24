@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am Ramkrishan Sahu (Ram) 
 
-- 🔭 I’m currently working on NLP
+- 🔭 I’m currently exploring Natural language processing and Machine Learning
 - 👯 I’m would love to collaborate on Projects related to Agriculture, Climate, or NLP
 - 📫 How to reach me: ram019.social@gmai.com
 
