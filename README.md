@@ -2,7 +2,7 @@
 I am Ramkrishan Sahu (Ram) 
 
 - 🔭 I’m currently exploring Natural language processing and Machine Learning
-- 👯 I’m would love to collaborate on Projects related to Agriculture, Climate, or NLP
+- 👯 I’m would love to collaborate on Projects related to Agriculture, Sustainability, or NLP
 - 📫 How to reach me: ram019.social@gmai.com
 
 
