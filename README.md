@@ -8,8 +8,10 @@ I am Ramkrishan Sahu (Ram)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramkrishansahu/)
 
+<!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramkrishan-sahu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ramkrishan-sahu)
 
+-->
